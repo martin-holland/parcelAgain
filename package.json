@@ -1,0 +1,19 @@
+{
+  "name": "parcelAgain",
+  "version": "1.0.0",
+  "description": "A simple test for a Parcel bundler",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Martin Holland",
+  "license": "MIT",
+  "dependencies": {
+    "@skalwar/simple_number_formatter": "^1.0.1",
+    "chart.js": "^3.5.1",
+    "parcel": "^2.0.0-rc.0",
+    "snackbar": "^1.1.0"
+  }
+}
